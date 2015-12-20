@@ -1,0 +1,25 @@
+    .clipped {
+      background: url(Prew.jpg) no-repeat center center;
+      background-size: cover;
+      color: #FFF;
+      text-align: center;
+      padding: 1.8em;
+      -webkit-text-fill-color: transparent;
+      -webkit-background-clip: text;
+      font-family: 'Rubik', sans-serif;
+      font-weight: 900;
+      margin-top: 0px;
+      margin-bottom: 0px;
+    }
+    .subtitle {
+      text-align: center;
+      font-family: 'Raleway', sans-serif;
+      font-size: 10em;
+      -webkit-mask-image: url('http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2013/11/splatter-mask_1-codrops.png');
+      margin: 0 auto;
+      color: #cfd8dc;
+    }
+    
+body {
+  background-color: #263238;
+}
