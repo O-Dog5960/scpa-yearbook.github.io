@@ -5,7 +5,7 @@
 
 .demo-2 .box:hover h3,
 .demo-2 .box:hover span {
-	color: #fe6f83;
+	color: #d32f2f;
 }
 
 .demo-2 .box svg line {
@@ -13,13 +13,13 @@
 }
 
 .demo-2 .box:hover svg line {
-	stroke: #fe6f83;
+	stroke: #d32f2f;
 }
 .box {
 	width: 300px;
 	height: 460px;
 	position: relative;
-	background: rgba(255,255,255,1);
+	background: #4a148c;
 	display: inline-block;
 	margin: 0 10px;
 	cursor: pointer;
@@ -62,7 +62,7 @@
 
 .box:hover h3,
 .box:hover span {
-	color: #fff;
+	color: #aa00ff;
 	-webkit-transition-delay: 0s;
 	transition-delay: 0s;
 }
@@ -75,7 +75,7 @@
 
 .box svg line {
 	stroke-width: 3;
-	stroke: #ecf0f1;
+	stroke: #4a148c;
 	fill: none;
 	-webkit-transition: all .8s ease-in-out;
 	transition: all .8s ease-in-out;
